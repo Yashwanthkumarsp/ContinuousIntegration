@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37784" started-at="2023-07-27T05:30:26Z" finished-at="2023-07-27T05:31:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37784" started-at="2023-07-27T05:30:26Z" finished-at="2023-07-27T05:31:04Z">
+      <class name="Frame_Test.ActionClass3Test">
+        <test-method status="PASS" signature="open()[pri:0, instance:Frame_Test.ActionClass3Test@32cf48b7]" name="open" is-config="true" duration-ms="6327" started-at="2023-07-27T05:30:54Z" finished-at="2023-07-27T05:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="learnmore()[pri:0, instance:Frame_Test.ActionClass3Test@32cf48b7]" name="learnmore" duration-ms="867" started-at="2023-07-27T05:31:00Z" finished-at="2023-07-27T05:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- learnmore -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Frame_Test.ActionClass3Test@32cf48b7]" name="close" is-config="true" duration-ms="2750" started-at="2023-07-27T05:31:01Z" finished-at="2023-07-27T05:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Frame_Test.ActionClass3Test -->
+      <class name="Frame_Test.ActionClassTest">
+        <test-method status="PASS" signature="open()[pri:0, instance:Frame_Test.ActionClassTest@517cd4b]" name="open" is-config="true" duration-ms="8411" started-at="2023-07-27T05:30:26Z" finished-at="2023-07-27T05:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="action()[pri:0, instance:Frame_Test.ActionClassTest@517cd4b]" name="action" duration-ms="7340" started-at="2023-07-27T05:30:34Z" finished-at="2023-07-27T05:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- action -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Frame_Test.ActionClassTest@517cd4b]" name="close" is-config="true" duration-ms="2776" started-at="2023-07-27T05:30:42Z" finished-at="2023-07-27T05:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Frame_Test.ActionClassTest -->
+      <class name="Frame_Test.ActionClass2Test">
+        <test-method status="PASS" signature="open()[pri:0, instance:Frame_Test.ActionClass2Test@6cc7b4de]" name="open" is-config="true" duration-ms="5478" started-at="2023-07-27T05:30:44Z" finished-at="2023-07-27T05:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="google()[pri:0, instance:Frame_Test.ActionClass2Test@6cc7b4de]" name="google" duration-ms="1034" started-at="2023-07-27T05:30:50Z" finished-at="2023-07-27T05:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Frame_Test.ActionClass2Test@6cc7b4de]" name="close" is-config="true" duration-ms="2753" started-at="2023-07-27T05:30:51Z" finished-at="2023-07-27T05:30:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Frame_Test.ActionClass2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
